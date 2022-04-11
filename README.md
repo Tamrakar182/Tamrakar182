@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/Tamrakar182/Tamrakar182/blob/main/codingnight.gif"/>
 </div>
 
 ---
