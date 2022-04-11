@@ -9,8 +9,9 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Tamrakar182&style=flat-square&color=blue" alt=""/ align="center">
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tamrakar182&style=flat-square&color=blue" alt=""/ >
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -53,7 +54,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tamrakar182e&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamrakar182)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamrakar182)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
