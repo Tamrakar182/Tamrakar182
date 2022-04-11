@@ -18,16 +18,14 @@
 </div>
 
 ---
-<div align="center">
-  ### :man_technologist: About Me :
-</div>
+### :man_technologist: About Me :
 
 <div align="center">
   - 👋 Hi, I’m @Tamrakar182
-  - 👀 I’m interested in Everything basically.
-  - 🌱 I’m currently learning Web Design.
-  - 💞️ I’m looking to collaborate on open source projects.
-  - 📫 How to reach me: manjultamrakar4@gmail.com
+  - 👀 I’m interested in Everything basically.&nbsp;
+  - 🌱 I’m currently learning Web Design.&nbsp;
+  - 💞️ I’m looking to collaborate on open source projects.&nbsp;
+  - 📫 How to reach me: manjultamrakar4@gmail.com&nbsp;
 </div>
   
 ---
