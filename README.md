@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<br>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/manjul-tamrakar-408362213/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,6 +14,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Tamrakar182&style=flat-square&color=blue" alt=""/ >
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github.com/Tamrakar182/Tamrakar182/blob/main/codingnight.gif"/>
