@@ -18,20 +18,24 @@
 </div>
 
 ---
+<div align="center">
+  ### :man_technologist: About Me :
+</div>
 
-### :man_technologist: About Me :
-
-- 👋 Hi, I’m @Tamrakar182
-- 👀 I’m interested in Everything basically.
-- 🌱 I’m currently learning Web Design.
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me: manjultamrakar4@gmail.com
-
+<div align="center">
+  - 👋 Hi, I’m @Tamrakar182
+  - 👀 I’m interested in Everything basically.
+  - 🌱 I’m currently learning Web Design.
+  - 💞️ I’m looking to collaborate on open source projects.
+  - 📫 How to reach me: manjultamrakar4@gmail.com
+</div>
+  
 ---
+<div align="center">
+  ### :hammer_and_wrench: Languages and Tools :
+</div>
 
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -41,11 +45,14 @@
 </div>
 
 ---
+<div align="center">
+  ### :fire: My Stats :
+</div>
 
-### :fire: My Stats :
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamrakar182&show_icons=true&theme=radical)
-
+<div align="center">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamrakar182&show_icons=true&theme=radical)
+</div>
+  
 <!---
 Tamrakar182/Tamrakar182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
