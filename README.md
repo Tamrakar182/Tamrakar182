@@ -46,6 +46,11 @@
 ### :fire: My Stats :
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Tamrakar182&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamrakar182&layout=compact&theme=radical)
+
+---
+
+### :snake: A snake eating my Commit Graph :
+![snake gif](https://github.com/Tamrakar182/Tamrakar182/blob/output/github-contribution-grid-snake.gif)
   
 <!---
 Tamrakar182/Tamrakar182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
