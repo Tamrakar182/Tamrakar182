@@ -86,29 +86,8 @@
 ---
 
 ### :fire: My Stats :
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Tamrakar182&show_icons=truetheme=radical"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Tamrakar182&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
 <img src="https://github-readme-stats.vercel.app/api?username=Tamrakar&show_icons=true&theme=radical" />
-</picture>
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamrakar182&layout=compact&theme=radical"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamrakar182&layout=compact"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamrakar182&layout=compact&theme=radical" />
-</picture>
   
 <!---
 Tamrakar182/Tamrakar182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
