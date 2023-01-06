@@ -35,58 +35,16 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-
-<div>
-  <a href="https://en.wikipedia.org/wiki/HTML5">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,py,c,cpp,html,css,js,bootstrap,express,mongodb,nodejs,vue,godot" />
   </a>
-  
-  <a href="https://en.wikipedia.org/wiki/CSS">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-   </a>
-   
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  </a>
-  
-  <a href="https://nodejs.org/en/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  </a>
-  
-  <a href="https://www.mongodb.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  </a>
-  
-  <a href="https://expressjs.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  </a>
-  
-   <a href="https://www.python.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   </a>
-   
-   <a href="https://git-scm.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> 
-   </a>
-   
-   <a href="https://www.gnu.org/software/bash/">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/> 
-   </a>
-  
-  <a href="https://godotengine.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
-  </a>
-  
-   <a href="https://vuejs.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VUE" alt="VUE" width="40" height="40"/>&nbsp;
-   </a>
-  
-</div>
+</p>
 
 ---
 
 ### :fire: My Stats :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamrakar&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tamrakar182&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamrakar182&layout=compact&theme=radical)
   
 <!---
