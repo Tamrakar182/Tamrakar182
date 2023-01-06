@@ -27,7 +27,7 @@
 
   - 👋 Hi, I’m @Tamrakar182
   - 👀 I’m interested in Everything basically
-  - 🌱 I’m currently learning Nodejs, Express and MongoDB.
+  - 🌱 I’m currently learning Microsoft Azure Fundamentals, VUE and GDScript.
   - 💞️ I’m looking to collaborate on open source projects.
   - 📫 How to reach me: manjultamrakar4@gmail.com
   
@@ -60,7 +60,7 @@
   <a href="https://expressjs.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   </a>
-   
+  
    <a href="https://www.python.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    </a>
@@ -73,7 +73,14 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/> 
    </a>
   
- 
+  <a href="https://godotengine.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
+  </a>
+  
+   <a href="https://vuejs.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VUE" alt="VUE" width="40" height="40"/>&nbsp;
+   </a>
+  
 </div>
 
 ---
