@@ -44,8 +44,10 @@
 ---
 
 ### :fire: My Stats :
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tamrakar182&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamrakar182&layout=compact&theme=radical)
+<div align = "center">
+<img style="height: 30vh" src="https://streak-stats.demolab.com/?user=Tamrakar182&theme=dark" />
+<img style="height: 30vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamrakar182&layout=compact&theme=radical" />
+</div
 
 ---
 
