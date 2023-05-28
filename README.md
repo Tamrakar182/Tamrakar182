@@ -27,7 +27,7 @@
 
   - 👋 Hi, I’m @Tamrakar182
   - 👀 I’m interested in Everything basically
-  - 🌱 I’m currently learning Microsoft Azure Fundamentals, VUE and GDScript.
+  - 🌱 I’m currently learning React, TypeScript and GraphQL.
   - 💞️ I’m looking to collaborate on open source projects.
   - 📫 How to reach me: manjultamrakar4@gmail.com
   
@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,py,c,cpp,html,css,js,bootstrap,express,mongodb,nodejs,vue,godot" />
+    <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,py,c,cpp,html,css,js,bootstrap,express,mongodb,nodejs,react,godot" />
   </a>
 </p>
 
