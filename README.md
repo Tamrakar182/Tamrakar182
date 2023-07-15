@@ -59,6 +59,13 @@
 ![3d--contribution-chart](./profile-3d-contrib/profile-night-rainbow.svg)
 </details>
 
+<details>
+	<summary><b>🔬 &nbsp;More Detailed Statistics</b></summary>
+	<br/>
+	<!--START_SECTION:waka-->
+	<!--END_SECTION:waka-->
+</details>
+
 ---
   
 <!---
