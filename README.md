@@ -1,3 +1,4 @@
+<img src="header_1.png" />
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/manjul-tamrakar/">
@@ -29,8 +30,7 @@
 <details>
   <summary><b>🔨 &nbsp;Tools I use</b></summary>
   <br/>
-      <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,godot,postman,discord" />
-      <img src="https://obsidian.md/favicon.ico" width=40 height=40 />
+      <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,godot,postman,discord" /> &nbsp<img src="obsidian-icon.svg" width=50 height=50 />
 
 </details>
 
