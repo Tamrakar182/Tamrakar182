@@ -46,13 +46,9 @@
 ### :fire: My Stats :
 <div align = "center">
 <img style="height: 30vh" src="https://streak-stats.demolab.com/?user=Tamrakar182&theme=dark" />
-<img style="height: 30vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamrakar182&layout=compact&theme=radical" />
 </div
 
 ---
-
-### :snake: A snake eating my Commit Graph :
-![snake gif](https://github.com/Tamrakar182/Tamrakar182/blob/output/github-contribution-grid-snake-dark.svg)
   
 <!---
 Tamrakar182/Tamrakar182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
