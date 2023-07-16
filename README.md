@@ -63,7 +63,13 @@
 	<summary><b>🔬 &nbsp;More Detailed Statistics</b></summary>
 	<br/>
 	<!--START_SECTION:waka-->
-	<!--END_SECTION:waka-->
+
+```txt
+Other   1 hr 39 mins    █████████████████████████   99.77 %
+C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+```
+
+<!--END_SECTION:waka-->
 </details>
 
 ---
