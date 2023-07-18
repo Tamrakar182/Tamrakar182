@@ -65,9 +65,13 @@
 	<!--START_SECTION:waka-->
 
 ```txt
-Other    5 hrs 32 mins   ████████████████████░░░░░   79.37 %
-Python   1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-C        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+From: 14 July 2023 - To: 16 July 2023
+
+Total Time: 6 hrs 58 mins
+
+Other    5 hrs 32 mins   >>>>>>>>>>>>>>>>>>>>-----   79.37 %
+Python   1 hr 6 mins     >>>>---------------------   15.77 %
+C        20 mins         >------------------------   04.86 %
 ```
 
 <!--END_SECTION:waka-->
