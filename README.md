@@ -65,13 +65,16 @@
 	<!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2023 - To: 16 July 2023
+From: 14 July 2023 - To: 17 July 2023
 
-Total Time: 6 hrs 58 mins
+Total Time: 8 hrs 5 mins
 
-Other    5 hrs 32 mins   >>>>>>>>>>>>>>>>>>>>-----   79.37 %
-Python   1 hr 6 mins     >>>>---------------------   15.77 %
-C        20 mins         >------------------------   04.86 %
+Other    6 hrs 28 mins   >>>>>>>>>>>>>>>>>>>>-----   79.94 %
+Python   1 hr 6 mins     >>>----------------------   13.59 %
+C        20 mins         >------------------------   04.19 %
+HTML     10 mins         >------------------------   02.25 %
+CSS      0 secs          -------------------------   00.02 %
+SCSS     0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
