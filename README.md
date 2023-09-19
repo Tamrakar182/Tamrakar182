@@ -37,7 +37,7 @@
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
-      <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,express,mongodb,nodejs,react,tailwind" />
+      <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,express,mongodb,nodejs,react,tailwind,ts,nextjs,styledcomponents,materialui" />
 </details>
 
 ---
