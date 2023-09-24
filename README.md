@@ -19,7 +19,7 @@
 
   - 👋 Hi, I’m @Tamrakar182
   - 👀 I’m interested in Everything basically
-  - 🌱 I’m currently learning React, TypeScript and GraphQL.
+  - 🌱 I’m currently learning TypeScript & NestJS.
   - 💞️ I’m looking to collaborate on open source projects.
   - 📫 How to reach me: manjultamrakar4@gmail.com
   
