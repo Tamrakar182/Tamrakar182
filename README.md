@@ -11,6 +11,9 @@
   <a href="https://twitter.com/tamrakar999">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
+[![wakatime](https://wakatime.com/badge/user/f337b176-5837-4884-bc66-626771d2ae76.svg?style=for-the-badge)](https://wakatime.com/@f337b176-5837-4884-bc66-626771d2ae76)
+  
 </div>
 
 ---
@@ -62,11 +65,8 @@
 <details>
 	<summary><b>🔬 &nbsp;More Detailed Statistics</b></summary>
 	<br/>
-<figure><embed src="https://wakatime.com/share/@f337b176-5837-4884-bc66-626771d2ae76/4d80c608-ebf1-42b7-a42b-2cf2571e8c31.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@Tamrakar182/9ec40be3-8b16-4293-93a6-a84b3d594d86.svg"></embed></figure>
-
- 
-	<!--START_SECTION:waka-->
+	
+<!--START_SECTION:waka-->
 
 ```txt
 From: 14 July 2023 - To: 25 September 2023
@@ -88,6 +88,9 @@ Bash             27 mins         -------------------------   00.17 %
 <!--END_SECTION:waka-->
 
 
+
+<img src="https://wakatime.com/share/@Tamrakar182/7341ea82-623e-423e-942d-8a88d678d96e.svg" />
+<img src="https://wakatime.com/share/@Tamrakar182/9ec40be3-8b16-4293-93a6-a84b3d594d86.svg" width="1000vw" />
 </details>
 
 ---
