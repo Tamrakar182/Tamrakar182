@@ -62,6 +62,10 @@
 <details>
 	<summary><b>🔬 &nbsp;More Detailed Statistics</b></summary>
 	<br/>
+<figure><embed src="https://wakatime.com/share/@f337b176-5837-4884-bc66-626771d2ae76/4d80c608-ebf1-42b7-a42b-2cf2571e8c31.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@Tamrakar182/9ec40be3-8b16-4293-93a6-a84b3d594d86.svg"></embed></figure>
+
+ 
 	<!--START_SECTION:waka-->
 
 ```txt
@@ -83,8 +87,7 @@ Bash             27 mins         -------------------------   00.17 %
 
 <!--END_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@f337b176-5837-4884-bc66-626771d2ae76/4d80c608-ebf1-42b7-a42b-2cf2571e8c31.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@Tamrakar182/9ec40be3-8b16-4293-93a6-a84b3d594d86.svg"></embed></figure>
+
 </details>
 
 ---
