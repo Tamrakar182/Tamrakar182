@@ -69,7 +69,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2023 - To: 27 September 2023
+From: 14 July 2023 - To: 28 September 2023
 
 Total Time: 268 hrs 27 mins
 
@@ -78,11 +78,6 @@ Other            6 hrs 31 mins   >------------------------   02.43 %
 Python           6 hrs 30 mins   >------------------------   02.43 %
 Markdown         2 hrs 24 mins   -------------------------   00.90 %
 JSON             2 hrs 19 mins   -------------------------   00.87 %
-HTML             1 hr 45 mins    -------------------------   00.65 %
-CSS              1 hr 10 mins    -------------------------   00.44 %
-JavaScript       1 hr 3 mins     -------------------------   00.39 %
-C                33 mins         -------------------------   00.21 %
-Bash             27 mins         -------------------------   00.17 %
 ```
 
 <!--END_SECTION:waka-->
