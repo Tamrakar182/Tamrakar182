@@ -22,7 +22,7 @@
 
   - 👋 Hi, I’m @Tamrakar182
   - 👀 I’m interested in Everything basically
-  - 🌱 I’m currently learning TypeScript & NestJS.
+  - 🌱 I’m currently learning Flutter.
   - 💞️ I’m looking to collaborate on open source projects.
   - 📫 How to reach me: manjultamrakar4@gmail.com
   
@@ -33,14 +33,14 @@
 <details>
   <summary><b>🔨 &nbsp;Tools I use</b></summary>
   <br/>
-      <img src="https://skillicons.dev/icons?i=git,github,md,vscode,bash,godot,postman,discord" /> &nbsp<img src="obsidian-icon.svg" width=50 height=50 />
+      <img width="100%" src="https://skills-icons.vercel.app/api/icons?i=git,github,md,vscode,bash,godot,postman,discord,bitbucket,figma,bun,pnpm" />
 
 </details>
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
-      <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,express,mongodb,nodejs,react,tailwind,ts,nextjs,styledcomponents,materialui" />
+  <img  width="100%" src="https://skills-icons.vercel.app/api/icons?i=python,c,cpp,html,css,js,express,mongodb,nodejs,react,tailwind,ts,nextjs,styledcomponents,materialui,astro,docker,electron,md,vite,daisyui,eslint,expo,framer,shadcnui,zustand" />
 </details>
 
 ---
