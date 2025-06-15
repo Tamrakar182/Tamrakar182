@@ -22,7 +22,7 @@
 
   - 👋 Hi, I’m @Tamrakar182
   - 👀 I’m interested in Everything basically
-  - 🌱 I’m currently learning Flutter.
+  - 🌱 I’m currently learning Go.
   - 💞️ I’m looking to collaborate on open source projects.
   - 📫 How to reach me: manjultamrakar4@gmail.com
   
