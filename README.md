@@ -69,15 +69,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2023 - To: 21 July 2025
+From: 14 July 2023 - To: 22 July 2025
 
-Total Time: 1,534 hrs 12 mins
+Total Time: 1,539 hrs 43 mins
 
-TypeScript          1,216 hrs 30 mins>>>>>>>>>>>>>>>>>>>>-----   79.29 %
-JavaScript          71 hrs 16 mins  >------------------------   04.65 %
-JSON                48 hrs 38 mins  >------------------------   03.17 %
+TypeScript          1,216 hrs 33 mins>>>>>>>>>>>>>>>>>>>>-----   79.01 %
+JavaScript          71 hrs 16 mins  >------------------------   04.63 %
+JSON                48 hrs 38 mins  >------------------------   03.16 %
+Kotlin              26 hrs 43 mins  -------------------------   01.74 %
 Other               22 hrs 54 mins  -------------------------   01.49 %
-Go                  22 hrs 46 mins  -------------------------   01.48 %
 ```
 
 <!--END_SECTION:waka-->
