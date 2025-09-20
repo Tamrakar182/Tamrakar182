@@ -20,9 +20,9 @@
 
 ### :man_technologist: About Me :
 
-  - 👋 Hi, I’m @Tamrakar182
-  - 👀 I’m interested in Everything basically
-  - 🌱 I’m currently learning Go.
+  - 👋 Hi, I’m @Tamrakar182.
+  - 👀 I’m interested in computers.
+  - 🌱 I’m currently learning Android Development with Jetpack Compose.
   - 💞️ I’m looking to collaborate on open source projects.
   - 📫 How to reach me: manjultamrakar4@gmail.com
   
@@ -33,14 +33,14 @@
 <details>
   <summary><b>🔨 &nbsp;Tools I use</b></summary>
   <br/>
-      <img width="100%" src="https://skills-icons.vercel.app/api/icons?i=git,github,md,vscode,bash,godot,postman,discord,bitbucket,figma,bun,pnpm" />
+      <img width="100%" src="https://skills-icons.vercel.app/api/icons?i=git,github,md,vscode,bash,godot,postman,discord,bitbucket,figma,bun,pnpm,aseprite,coolify" />
 
 </details>
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
-  <img  width="100%" src="https://skills-icons.vercel.app/api/icons?i=python,c,cpp,html,css,js,express,mongodb,nodejs,react,tailwind,ts,nextjs,styledcomponents,materialui,astro,docker,electron,md,vite,daisyui,eslint,expo,framer,shadcnui,zustand" />
+  <img  width="100%" src="https://skills-icons.vercel.app/api/icons?i=python,c,cpp,html,css,js,express,mongodb,nodejs,react,tailwind,ts,nextjs,styledcomponents,materialui,biome,astro,docker,electron,vite,daisyui,eslint,expo,framer,shadcnui,clerk,zustand,prisma,turbo,nestjs,android,gradle,ktor,kotlin,jetpackcompose" />
 </details>
 
 ---
