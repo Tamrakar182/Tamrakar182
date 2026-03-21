@@ -33,14 +33,14 @@
 <details>
   <summary><b>🔨 &nbsp;Tools I use</b></summary>
   <br/>
-      <img width="100%" src="https://skills-icons.vercel.app/api/icons?i=git,github,md,vscode,bash,godot,postman,discord,bitbucket,figma,bun,pnpm,aseprite,coolify" />
+      <img width="100%" src="https://skills-icons.vercel.app/api/icons?i=git,github,md,vscode,androidstudio,bash,yaak,discord,figma,bun,pnpm,coolify" />
 
 </details>
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
-  <img  width="100%" src="https://skills-icons.vercel.app/api/icons?i=python,c,cpp,html,css,js,express,mongodb,nodejs,react,tailwind,ts,nextjs,styledcomponents,materialui,biome,astro,docker,electron,vite,daisyui,eslint,expo,framer,shadcnui,clerk,zustand,prisma,turbo,nestjs,android,gradle,ktor,kotlin,jetpackcompose" />
+  <img  width="100%" src="https://skills-icons.vercel.app/api/icons?i=python,c,cpp,html,css,js,express,mongodb,nodejs,react,tailwind,ts,nextjs,styledcomponents,materialui,astro,docker,electron,vite,daisyui,reactnative,expo,tanstack,framer,shadcnui,clerk,zustand,prisma,turbo,nestjs,android,gradle,ktor,kotlin,jetpackcompose,junit4,koin,firebase,apollo,graphql,posthog" />
 </details>
 
 ---
