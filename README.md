@@ -54,10 +54,6 @@
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=tamrakar182&hide_border=true&theme=nightowl" />
     </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=tamrakar182&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamrakar182&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamrakar182&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 	
 ![3d--contribution-chart](./profile-3d-contrib/profile-night-rainbow.svg)
 </details>
